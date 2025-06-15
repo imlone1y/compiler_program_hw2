@@ -1,2 +1,2 @@
 # compiler_program_hw2
-NDHU compiler homework.
+ question file in `2025PLC-HW02.pdf`
